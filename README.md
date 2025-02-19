@@ -14,19 +14,18 @@
 ```javascript
 const yasin = {
     pronouns: "He" | "Him",
-    bio: "I'm a former Pharmacy technician who studied Pharmacy for 2 years
-          and completely abandoned it because I wanted to study computer science",
-    code: ["Javascript", "Java", "NodeJS"],
+    bio: "I'm a Computer Engineer",
+    code: ["Javascript", "C#", ".Net"],
     askMeAbout: ["web dev", "tech", "video games", "full-stack"],
     technologies: {
         frontEnd: {
             js: ["React.js", "Next.js"],
-            css: ["Tailwind", "MaterialUI", "bootstrap", "SCSS"]
+            css: ["Tailwind","bootstrap", "SCSS"]
         },
         backEnd: {
-            js: ["node", "spring boot"],
+            js: [".Net Core", "Python"],
         },
-        databases: ["mongo", "PostgreSQL", "MySql", "MSSQL"],
+        databases: [ "MySql", "MSSQL"],
         misc: ["Firebase", "Strapi", "OAuth", "Git"]
     },
     funFact: "The first computer “bug” was an actual real-life bug"
