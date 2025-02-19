@@ -36,7 +36,3 @@ const yasin = {
 
 ### 💻 My most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasingulsoy&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/yasingulsoy/github-readme-stats)
-
-### 📖 My Github stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=yasingulsoy&theme=dark&hide_border=true)
-
