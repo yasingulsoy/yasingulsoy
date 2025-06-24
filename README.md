@@ -1,3 +1,18 @@
+<h2>I'm Yasin Gülsoy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<p><em>Computer Engineer & Software Developer
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
+
+[![LinkedIn: yasin-gülsoy](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasin-g%C3%BClsoy-b7874b22b/)](https://www.linkedin.com/in/yasin-g%C3%BClsoy-b7874b22b/)
+[![Instagram: _yasingulsoy_](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_yasingulsoy_/)](https://www.instagram.com/_yasingulsoy_/)
+![GitHub followers](https://img.shields.io/github/followers/yasingulsoy?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=yasingulsoy.yasingulsoy)
+
+---
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
@@ -9,18 +24,14 @@ const yasin = {
     technologies: {
         frontEnd: {
             js: ["React.js", "Next.js"],
-            css: ["Tailwind", "bootstrap", "SCSS"]
+            css: ["Tailwind","bootstrap", "SCSS"]
         },
         backEnd: {
             js: [".Net Core", "Python"],
         },
-        databases: ["MySql", "MSSQL"],
+        databases: [ "MySql", "MSSQL"],
         misc: ["Firebase", "Strapi", "OAuth", "Git"]
     },
-    funFact: "The first computer “bug” was an actual real-life bug",
-    githubStats: {
-        topLanguages: "https://github-readme-stats.vercel.app/api/top-langs/?username=yasingulsoy&layout=compact&text_color=daf7dc&bg_color=151515&cache_seconds=60",
-        contributionStats: "https://github-readme-stats.vercel.app/api?username=yasingulsoy&show_icons=true&theme=radical",
-        streak: "https://github-readme-streak-stats.herokuapp.com/?user=yasingulsoy&theme=radical"
-    }
+    funFact: "The first computer “bug” was an actual real-life bug"
 };
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yasingulsoy&show_icons=true&theme=radical" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasingulsoy&theme=radical" width="49%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasingulsoy&layout=compact&text_color=daf7dc&bg_color=151515&cache_seconds=60" width="60%" /> </p> ```
