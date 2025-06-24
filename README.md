@@ -43,3 +43,4 @@ const yasin = {
     interests: ["Web Development", "Technology", "Gaming"],
     funFact: "The first computer “bug” was a real insect."
 };
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yasingulsoy&show_icons=true&theme=radical&hide_title=false&count_private=true" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasingulsoy&theme=radical" width="47%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasingulsoy&layout=compact&text_color=daf7dc&bg_color=151515&cache_seconds=60" width="60%"> </p>
