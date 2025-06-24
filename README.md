@@ -1,38 +1,45 @@
-<h2>I'm Yasin Gulsoy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Computer Engineer & Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2 align="center">Hi there, I'm Yasin Gülsoy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h2>
 
-[![LinkedIn: yasin-gülsoy](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasin-g%C3%BClsoy-b7874b22b/)](https://www.linkedin.com/in/yasin-g%C3%BClsoy-b7874b22b/)
-[![Instagram: _yasingulsoy_](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_yasingulsoy_/)](https://www.instagram.com/_yasingulsoy_/)
-![GitHub followers](https://img.shields.io/github/followers/yasingulsoy?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=yasingulsoy.yasingulsoy)
+<p align="center">
+  <em>Computer Engineer | Full-Stack Developer</em>
+  <br/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasin-g%C3%BClsoy-b7874b22b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/_yasingulsoy_/">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/github/followers/yasingulsoy?label=Follow&style=social">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=yasingulsoy.yasingulsoy">
+</p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+---
+
+### 🧑‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ```javascript
 const yasin = {
     pronouns: "He" | "Him",
-    bio: "I'm a Computer Engineer",
-    code: ["Javascript", "C#", ".Net"],
-    askMeAbout: ["web dev", "tech", "video games", "full-stack"],
-    technologies: {
+    profession: "Computer Engineer",
+    specialization: "Full-Stack Web Development",
+    languages: ["JavaScript", "C#", ".NET"],
+    techStack: {
         frontEnd: {
-            js: ["React.js", "Next.js"],
-            css: ["Tailwind","bootstrap", "SCSS"]
+            frameworks: ["React.js", "Next.js"],
+            styling: ["Tailwind", "Bootstrap", "SCSS"]
         },
         backEnd: {
-            js: [".Net Core", "Python"],
+            technologies: [".NET Core", "Python"]
         },
-        databases: [ "MySql", "MSSQL"],
-        misc: ["Firebase", "Strapi", "OAuth", "Git"]
+        databases: ["MySQL", "MSSQL"],
+        tools: ["Firebase", "Strapi", "OAuth", "Git"]
     },
-    funFact: "The first computer “bug” was an actual real-life bug"
+    interests: ["Web Development", "Technology", "Gaming"],
+    funFact: "The first computer “bug” was a real insect."
 };
-```
-
----
-
-### 💻 My most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasingulsoy&layout=compact&text_color=daf7dc&bg_color=151515&cache_seconds=60)](https://github.com/yasingulsoy/github-readme-stats)
