@@ -1,54 +1,26 @@
-<h2 align="center">Hi there, I'm Yasin Gülsoy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h2>
-
-<p align="center">
-  <em>Computer Engineer | Full-Stack Developer</em>
-  <br/>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yasin-g%C3%BClsoy-b7874b22b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/_yasingulsoy_/">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/github/followers/yasingulsoy?label=Follow&style=social">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yasingulsoy.yasingulsoy">
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const yasin = {
     pronouns: "He" | "Him",
-    profession: "Computer Engineer",
-    specialization: "Full-Stack Web Development",
-    languages: ["JavaScript", "C#", ".NET"],
-    techStack: {
+    bio: "I'm a Computer Engineer",
+    code: ["Javascript", "C#", ".Net"],
+    askMeAbout: ["web dev", "tech", "video games", "full-stack"],
+    technologies: {
         frontEnd: {
-            frameworks: ["React.js", "Next.js"],
-            styling: ["Tailwind", "Bootstrap", "SCSS"]
+            js: ["React.js", "Next.js"],
+            css: ["Tailwind", "bootstrap", "SCSS"]
         },
         backEnd: {
-            technologies: [".NET Core", "Python"]
+            js: [".Net Core", "Python"],
         },
-        databases: ["MySQL", "MSSQL"],
-        tools: ["Firebase", "Strapi", "OAuth", "Git"]
+        databases: ["MySql", "MSSQL"],
+        misc: ["Firebase", "Strapi", "OAuth", "Git"]
     },
-    interests: ["Web Development", "Technology", "Gaming"],
-    funFact: "The first computer “bug” was a real insect."
+    funFact: "The first computer “bug” was an actual real-life bug",
+    githubStats: {
+        topLanguages: "https://github-readme-stats.vercel.app/api/top-langs/?username=yasingulsoy&layout=compact&text_color=daf7dc&bg_color=151515&cache_seconds=60",
+        contributionStats: "https://github-readme-stats.vercel.app/api?username=yasingulsoy&show_icons=true&theme=radical",
+        streak: "https://github-readme-streak-stats.herokuapp.com/?user=yasingulsoy&theme=radical"
+    }
 };
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasingulsoy&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasingulsoy&layout=compact&text_color=daf7dc&bg_color=151515&cache_seconds=60)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasingulsoy&theme=radical)
-
-
