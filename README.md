@@ -30,10 +30,10 @@
 <a href="https://www.linkedin.com/in/yasingulsoy" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:yasingulsoy@example.com" target="_blank">
+<a href="mailto:yasingulsoy02@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://yasingulsoy.github.io" target="_blank">
+<a href="https://yasingulsoy.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white" />
 </a>
 
