@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-labelledby="t d">
+  <title id="t">PortfoyGo</title>
+  <desc id="d">Gerçek piyasa verisiyle çalışan sanal yatırım oyunu. Next.js, Express, PostgreSQL.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06141a"/>
+      <stop offset="1" stop-color="#0b1f2a"/>
+    </linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#34d399" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="400" height="220" rx="16"/></clipPath>
+    <style>
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Ubuntu, Arial, sans-serif; }
+      .line { stroke-dasharray: 420; stroke-dashoffset: 420; animation: draw 3.5s ease-out forwards infinite; }
+      @keyframes draw { 0% { stroke-dashoffset: 420; } 60%, 100% { stroke-dashoffset: 0; } }
+      .dot { animation: pulse 1.8s ease-in-out infinite; }
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+      @media (prefers-reduced-motion: reduce) { .line { animation: none; stroke-dashoffset: 0; } .dot { animation: none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="400" height="220" fill="url(#bg)"/>
+    <path d="M24 176 L70 160 L104 166 L140 138 L176 146 L214 112 L250 122 L288 90 L324 98 L376 60 L376 196 L24 196 Z" fill="url(#area)"/>
+    <path class="line" d="M24 176 L70 160 L104 166 L140 138 L176 146 L214 112 L250 122 L288 90 L324 98 L376 60" fill="none" stroke="#34d399" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle class="dot" cx="376" cy="60" r="4" fill="#34d399"/>
+    <text x="24" y="40" class="sans" font-size="22" font-weight="700" fill="#ecfdf5">PortfoyGo</text>
+    <text x="24" y="64" class="sans" font-size="13.5" fill="#94a3b8">Gerçek piyasa verisiyle sanal yatırım oyunu</text>
+    <text x="376" y="40" text-anchor="end" class="sans" font-size="13" font-weight="600" fill="#34d399">● canlı veri</text>
+    <g class="sans" font-size="11.5" font-weight="600">
+      <rect x="24" y="186" width="70" height="22" rx="11" fill="#34d399" fill-opacity="0.14"/>
+      <text x="59" y="201" text-anchor="middle" fill="#6ee7b7">Next.js</text>
+      <rect x="100" y="186" width="70" height="22" rx="11" fill="#34d399" fill-opacity="0.14"/>
+      <text x="135" y="201" text-anchor="middle" fill="#6ee7b7">Express</text>
+      <rect x="176" y="186" width="88" height="22" rx="11" fill="#34d399" fill-opacity="0.14"/>
+      <text x="220" y="201" text-anchor="middle" fill="#6ee7b7">PostgreSQL</text>
+    </g>
+    <rect x="0.5" y="0.5" width="399" height="219" rx="15.5" fill="none" stroke="#34d399" stroke-opacity="0.25"/>
+  </g>
+</svg>
