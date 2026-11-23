@@ -1,36 +1,3 @@
-<p align="center">
-  <img src="assets/header.svg" alt="Yasin Gülsoy. Full-Stack Developer ve Bilgisayar Mühendisi" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://yasingulsoy.vercel.app/"><img src="https://img.shields.io/badge/Web-yasingulsoy.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Web sitesi" /></a>
-  <a href="https://cengaversoft.com"><img src="https://img.shields.io/badge/Cengaver_Soft-cengaversoft.com-B91C1C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Cengaver Soft" /></a>
-  <a href="https://www.linkedin.com/in/yasingulsoy"><img src="https://img.shields.io/badge/LinkedIn-yasingulsoy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:yasingulsoy02@gmail.com"><img src="https://img.shields.io/badge/E--posta-yaz-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" /></a>
-</p>
-
-**Kısaca:** Beykent Üniversitesi'nde Bilgisayar Mühendisliği okudum. **.NET** ile iş uygulamaları, **Next.js** ile modern web arayüzleri geliştiriyorum. ERP danışmanlığı ve veri analizi deneyimim var. Bir işi baştan sona, yani veritabanından canlıya kadar kendim götürmeyi seviyorum.
-
-- 🏥 Sağlık ve klinik yönetim yazılımları: randevu, hasta takibi, raporlama
-- 🏢 Kurumsal web siteleri, yönetim panelleri ve e-ticaret
-- 🎮 Gerçek zamanlı, çok oyunculu web oyunları
-- 📊 Veriyi rapora ve karara dönüştürmek: Python, SQL, Power BI, Zoho Analytics
-
-## Öne çıkan projeler
-
-<p align="center">
-  <a href="https://github.com/yasingulsoy/PortfoyGo"><img src="assets/card-portfoygo.svg" width="32%" alt="PortfoyGo: gerçek piyasa verisiyle sanal yatırım oyunu" /></a>
-  <a href="https://github.com/yasingulsoy/monopoly"><img src="assets/card-monopoly.svg" width="32%" alt="İstanbul Monopoly: sesli sohbetli çok oyunculu tahta oyunu" /></a>
-  <a href="https://github.com/yasingulsoy/E-TicaretBitirmeProje"><img src="assets/card-eticaret.svg" width="32%" alt="E-Ticaret: admin panelli, Iyzico ödemeli bitirme projesi" /></a>
-</p>
-
-| Proje | Ne yapıyor | Teknoloji |
-| :--- | :--- | :--- |
-| [PortfoyGo](https://github.com/yasingulsoy/PortfoyGo) | 100.000 ₺ sanal bakiyeyle hisse, kripto, döviz ve emtia al-sat; liderlik tablosunda yarış | Next.js 16, Express, PostgreSQL |
-| [İstanbul Monopoly](https://github.com/yasingulsoy/monopoly) | Lobi, sesli sohbet ve canlı oyun tahtasıyla çok oyunculu İstanbul temalı tahta oyunu | Next.js, Node.js, TypeScript |
-| [E-Ticaret](https://github.com/yasingulsoy/E-TicaretBitirmeProje) | Sepet, favoriler, Iyzico ödeme ve tam yönetim paneli olan bitirme projesi | ASP.NET Core MVC, EF Core, SQL Server |
-| [Sertifikalar](https://github.com/yasingulsoy/Certificates) | AWS, siber güvenlik, ağ, C# ve veri analizi sertifikalarım | — |
-
 ## Deneyim
 
 | Nerede | Rol | Ne yaptım |
