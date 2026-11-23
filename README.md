@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://yasingulsoy.vercel.app/"><img src="https://img.shields.io/badge/Web-yasingulsoy.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Web sitesi" /></a>
+  <a href="https://cengaversoft.com"><img src="https://img.shields.io/badge/Cengaver_Soft-cengaversoft.com-B91C1C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Cengaver Soft" /></a>
   <a href="https://www.linkedin.com/in/yasingulsoy"><img src="https://img.shields.io/badge/LinkedIn-yasingulsoy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yasingulsoy02@gmail.com"><img src="https://img.shields.io/badge/E--posta-yaz-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" /></a>
 </p>
