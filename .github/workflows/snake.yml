@@ -24,7 +24,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: SVG'leri output dalına gönder
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
