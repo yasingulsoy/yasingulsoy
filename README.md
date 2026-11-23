@@ -1,11 +1,3 @@
-## Deneyim
-
-| Nerede | Rol | Ne yaptım |
-| :--- | :--- | :--- |
-| **Cloudyflex · Zoho** (2024) | ERP Danışmanı, .NET Geliştirici | Müşteriye özel ERP çözümleri; ASP.NET Core MVC ile web uygulamaları; Zoho Analytics ve Power BI ile raporlama |
-| **Beykent Üniversitesi · Öğrenci Dekanlığı** | Web Master, Jr. Veri Analisti | Kurumsal sitelere yeni ekranlar; kayıt, tercih ve rakip analizi raporları |
-| **Beykent Üniversitesi · Bilgisayar Mühendisliği Kulübü** | Kulüp Başkanı | Teknik ve sosyal etkinlikler, sektör gezileri, kulübün tanıtım stratejisi |
-
 ## Teknolojiler
 
 <details open>
